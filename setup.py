@@ -22,7 +22,7 @@ setup(
     long_description=open('README.rst').read(),
     install_requires=[
         'Django==1.9',
-        'djangorestframework==3.3.3',
+        'djangorestframework==3.11.2',
         'requests>=2.3.0',
     ],
     classifiers=[
